@@ -1,15 +1,3 @@
-/*!
- * Copyright 2013 Raymond Hill
- *
- * Project: github.com/gorhill/cronexpr
- * File: cronexpr_next.go
- * Version: 1.0
- * License: pick the one which suits you :
- *   GPL v3 see <https://www.gnu.org/licenses/gpl.html>
- *   APL v2 see <http://www.apache.org/licenses/LICENSE-2.0>
- *
- */
-
 package cronexpr
 
 /******************************************************************************/
